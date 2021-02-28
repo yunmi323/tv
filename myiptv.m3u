@@ -1,0 +1,26 @@
+#EXTINF:0, TVB Jade 翡翠台 480P
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+
+#EXTINF:0, TVB Jade 翡翠台 480P
+http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
+
+#EXTINF:0, TVB Jade 翡翠台 1080P
+http://61.238.6.49:8000/bysid/1
+
+#EXTINF:0, TVB Jade 翡翠台 1080P
+https://cdn.hkdtmb.com/hls/81/index.m3u8
+
+#EXTINF:0, TVB J2 1080P
+http://61.238.6.49:8001/bysid/82
+
+#EXTINF:0, TVB J2 720P
+http://xiaojun.cyou/7108live/gt/j2/live1.m3u8
+
+#EXTINF:0, TVB News 無線新聞台 官方
+https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_C_h264/__op/default/__f/index.m3u8
+
+#EXTINF:0, TVB News 無線新聞台
+http://61.238.6.49:8001/bysid/83
+
+#EXTINF:0,無線財經資訊台 
+http://61.238.6.49:8001/bysid/85
