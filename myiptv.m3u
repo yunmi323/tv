@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0, TVB Jade 翡翠台 480P
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" tvg-name="Jade" group-title="TVB",TVB Jade 翡翠台 480P
 http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 
 #EXTINF:0, TVB Jade 翡翠台 480P
